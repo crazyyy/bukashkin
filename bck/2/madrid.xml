@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/1.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/2.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/3.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/4.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/5.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/6.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/7.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/8.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+	    <track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/9.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/10.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/11.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+		
+		<track>
+			<title>Описание!Описание!</title>
+			<creator>Artem Trotsenko</creator>
+			<location>2/12.jpg</location>
+			<info>http://www.webog.org.ua</info>
+		</track>
+
+	</trackList>
+</playlist>

@@ -1,0 +1,2 @@
+[18-Apr-2014 15:22:10] PHP Fatal error:  Call to undefined function  add_action() in /home/cp500892/public_html/retrolampa.ru/wp-content/plugins/hello.php on line 60
+[28-Jun-2014 19:31:52] PHP Fatal error:  Call to undefined function  add_action() in /home/cp500892/public_html/retrolampa.ru/wp-content/plugins/hello.php on line 60

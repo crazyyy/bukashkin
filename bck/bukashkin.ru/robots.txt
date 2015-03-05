@@ -1,0 +1,13 @@
+User-agent: Yandex
+Disallow: /js/
+Disallow: /css/
+Host: bukashkin.ru
+
+User-agent: Googlebot
+Disallow: /js/
+Disallow: /css/
+
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /cgi-bin/

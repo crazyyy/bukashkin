@@ -1,0 +1,20 @@
+<?php /* Smarty version 2.6.24, created on 2011-05-05 14:59:01
+         compiled from shopos-light/module/checkout_payment_block.html */ ?>
+	<table border="0" width="100%" cellspacing="1" cellpadding="2" class="infoBox">	          <tr class="infoBoxContents">	            <td><table border="0" width="100%" cellspacing="0" cellpadding="2"> <?php $_from = $this->_tpl_vars['module_content']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }$this->_foreach['aussen'] = array('total' => count($_from), 'iteration' => 0);
+if ($this->_foreach['aussen']['total'] > 0):
+    foreach ($_from as $this->_tpl_vars['module_data']):
+        $this->_foreach['aussen']['iteration']++;
+?> 		              <tr>		                <td class="onepxwidth">&nbsp;</td>		                <td colspan="2"><table border="0" width="100%" cellspacing="0" cellpadding="2">		                		<?php if ($this->_tpl_vars['module_data']['checked'] == 1): ?>		<tr id="defaultSelected" class="moduleRowSelected" onmouseover="rowOverEffect(this)" onmouseout="rowOutEffect(this)" onclick="selectRowEffect(this, <?php echo $this->_tpl_vars['module_data']['radio_buttons']; ?>
+)">		<?php else: ?>		<tr class="moduleRow" onmouseover="rowOverEffect(this)" onmouseout="rowOutEffect(this)" onclick="selectRowEffect(this, <?php echo $this->_tpl_vars['module_data']['radio_buttons']; ?>
+)">		<?php endif; ?>		                    <td class="onepxwidth"><?php echo $this->_tpl_vars['module_data']['selection']; ?>
+</td>		                    <td class="main" colspan="3"><b><?php echo $this->_tpl_vars['module_data']['module']; ?>
+</b></td>		                                    <td class="main" align="right"><strong><?php echo $this->_tpl_vars['module_data']['module_cost']; ?>
+</strong></td>		                    <td class="onepxwidth">&nbsp;</td>		                  </tr>		<?php if ($this->_tpl_vars['module_data']['description']): ?>						  <tr>			                    <td class="onepxwidth">&nbsp;</td>			                    <td class="main" colspan="4"><?php echo $this->_tpl_vars['module_data']['description']; ?>
+</td>			                    <td class="onepxwidth">&nbsp;</td>			                  </tr>		<?php endif; ?>		<?php if ($this->_tpl_vars['module_data']['error']): ?> 			                  <tr>			                    <td class="onepxwidth">&nbsp;</td>			                    <td class="main" colspan="4"><?php echo $this->_tpl_vars['module_data']['error']; ?>
+</td>			                    <td class="onepxwidth">&nbsp;</td>			                  </tr>		<?php else: ?> 			                  <tr>			                    <td class="onepxwidth">&nbsp;</td>			                    <td colspan="4"><table border="0" cellspacing="0" cellpadding="2">						<?php $_from = $this->_tpl_vars['module_data']['fields']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }$this->_foreach['aussen'] = array('total' => count($_from), 'iteration' => 0);
+if ($this->_foreach['aussen']['total'] > 0):
+    foreach ($_from as $this->_tpl_vars['method_data']):
+        $this->_foreach['aussen']['iteration']++;
+?> 				 				                      <tr>				                        <td class="onepxwidth">&nbsp;</td>				                        <td class="main"><?php echo $this->_tpl_vars['method_data']['title']; ?>
+</td>				                        <td class="onepxwidth">&nbsp;</td>				                        <td class="main"><?php echo $this->_tpl_vars['method_data']['field']; ?>
+</td>				                        <td class="onepxwidth">&nbsp;</td>				                      </tr>							<?php endforeach; endif; unset($_from); ?>			 			                    </table></td>			                    <td class="onepxwidth">&nbsp;</td>			                  </tr>					<?php endif; ?>		 		                </table></td>		                <td class="onepxwidth">&nbsp;</td>		              </tr>			<?php endforeach; endif; unset($_from); ?>		        </table></td>	      </tr>	    </table>
