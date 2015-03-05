@@ -1,6 +1,6 @@
 <?php
 $SES = array (
-  '59dff68c697d46af8b772f8962557461' => 
+  'e242deb9804d69a9c78aff524ef27240' => 
   array (
     'cfg' => 
     array (
@@ -14,8 +14,8 @@ $SES = array (
       'globstat' => 0,
       'my_host' => 'localhost',
       'my_port' => 3306,
-      'my_user' => 'DBUSER',
-      'my_pass' => 'DBPASS',
+      'my_user' => 'bukashkin',
+      'my_pass' => 'bukashkin',
       'my_comp' => 0,
       'my_db' => '',
       'auth' => 'mysql cfg',
@@ -26,7 +26,7 @@ $SES = array (
       'outfile_path' => 'backup/',
       'outfile_size' => '64',
     ),
-    'time' => 1422713361,
+    'time' => 1425593434,
     'lng' => 'uk',
   ),
 );

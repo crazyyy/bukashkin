@@ -1,11 +1,13 @@
-User-agent: *
-Disallow: /cgi-bin
-Host: www.romatti-demo.ru
-
-Sitemap: http://romatti-demo.ru/sitemap.xml
-
 User-agent: Yandex
-Disallow: /cgi-bin
-Host: www.romatti-demo.ru
+Disallow: /js/
+Disallow: /css/
+Host: bukashkin.ru
 
-Sitemap: http://romatti-demo.ru/sitemap.xml
+User-agent: Googlebot
+Disallow: /js/
+Disallow: /css/
+
+User-agent: *
+Disallow: /js/
+Disallow: /css/
+Disallow: /cgi-bin/
