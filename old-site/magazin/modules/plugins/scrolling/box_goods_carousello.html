@@ -1,0 +1,38 @@
+			<table border="0px">
+				<tr>
+					<td width="50px">
+						<a class="prev browse left"> << </a>
+					</td>
+					<td width="100%">
+						<!-- root element for scrollable -->
+						<div class="scrollable">   
+							<!-- root element for the items -->
+							<div class="items">
+								{foreach name=box_carousello_item item=item from=$BOX_GOOD_CAROUSELLO_ITEMS}
+									{if $smarty.foreach.box_carousello_item.iteration % 3 == 1}<div class="container" style="width: 660px;">{/if}
+										<div class="item" style="width: 220px;">
+											<div style="width: 200px; height: 160px; overflow: hidden;">
+												<img src="{$item.products_image}"><br />
+											</div>
+											<b><a href="{$item.products_link}">{$item.products_name}</a></b><br />
+											Цена: {$item.products_price}
+										</div>
+									{if $smarty.foreach.box_carousello_item.iteration % 3 == 0 || $smarty.foreach.box_carousello_item.iteration == $smarty.foreach.box_carousello_item.total}</div>{/if}
+								{/foreach}
+							</div>
+						</div>
+					</td>
+					<td width="50px">
+						<!-- "next page" action -->
+						<a class="next browse right"> >> </a>
+					</td>
+				</tr>
+			</table>
+			<script>
+				{if $BOX_GOOD_CAROUSELLO_AUTOSCROLL == 0}
+					{literal}$(function() { $(".scrollable").scrollable(); });{/literal}
+				{else}
+					var js_autoscroll_delay = {$BOX_GOOD_CAROUSELLO_AUTOSCROLL_DELAY};
+					{literal}$(function() { $(".scrollable").scrollable({circular: true}).autoscroll({interval:js_autoscroll_delay}); });{/literal}
+				{/if}
+			</script>

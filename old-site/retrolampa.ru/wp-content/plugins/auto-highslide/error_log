@@ -1,0 +1,1 @@
+[09-Jan-2015 06:04:06] PHP Fatal error:  Call to undefined function  add_filter() in /home/cp500892/public_html/retrolampa.ru/wp-content/plugins/auto-highslide/auto-highslide.php on line 12

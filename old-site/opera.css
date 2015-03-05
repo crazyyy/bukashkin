@@ -1,0 +1,72 @@
+<style>
+body { font-family: verdana, sans-serif; font-size:5px; color:#FFF;}
+a.vsl_help { text-decoration:none; color:#000; border-bottom:dashed 1px #000; }
+a.vsl_help span { display:none;}
+a.vsl_help:hover { position:relative; }
+a.vsl_help:hover span { position:absolute; display:block; left:250px; top:190px; color:#FFF; white-space:pre; padding:1px;}
+</style>
+<style>
+body { font-family: verdana, sans-serif; font-size:5px; }
+a.vsl_help2 { text-decoration:none; color:#000; border-bottom:dashed 1px #000; }
+a.vsl_help2 span { display:none;}
+a.vsl_help2:hover { position:relative; }
+a.vsl_help2:hover span { position:absolute; display:block; left:210px; top:190px; color:#FFF; white-space:pre; padding:1px;}
+</style>
+<style>
+body { font-family: verdana, sans-serif; font-size:13px; }
+a.vsl_help3 { text-decoration:none; color:#000; border-bottom:dashed 1px #000; }
+a.vsl_help3 span { display:none;}
+a.vsl_help3:hover { position:relative; }
+a.vsl_help3:hover span { position:absolute; display:block; left:40px; top:190px; color:#FFF; white-space:pre; padding:1px;}
+</style>
+<style>
+body { font-family: verdana, sans-serif; font-size:13px; }
+a.vsl_help4 { text-decoration:none; color:#000; border-bottom:dashed 1px #000; }
+a.vsl_help4 span { display:none;}
+a.vsl_help4:hover { position:relative; }
+a.vsl_help4:hover span { position:absolute; display:block; left:-150px; top:190px; color:#FFF; white-space:pre; padding:1px;}
+</style>
+<style>
+body { font-family: verdana, sans-serif; font-size:13px; }
+a.vsl_help5 { text-decoration:none; color:#000; border-bottom:dashed 1px #000; }
+a.vsl_help5 span { display:none;}
+a.vsl_help5:hover { position:relative; }
+a.vsl_help5:hover span { position:absolute; display:block; left:-400px; top:190px; color:#FFF; white-space:pre; padding:1px;}
+</style>
+<style>
+body { font-family: verdana, sans-serif; font-size:13px; }
+a.vsl_help6 { text-decoration:none; color:#000; border-bottom:dashed 1px #000; }
+a.vsl_help6 span { display:none;}
+a.vsl_help6:hover { position:relative; }
+a.vsl_help6:hover span { position:absolute; display:block; left:-470px; top:190px; color:#FFF; white-space:pre; padding:1px;}
+</style>
+
+a:link {
+	color:#261910;
+	}
+
+a:visited {
+	color:#261910;
+	}
+	
+#gsilka_kontakt {
+	height: 200px;
+	width: 200px;
+	left: 100px;
+	top: 261px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	font-size: 19px;
+}
+#gsilka_kompania {
+	height: 214px;
+	width: 313px;
+	left: 38px;
+	top: 156px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	font-size: 19px;
+	color:#FFF;
+}

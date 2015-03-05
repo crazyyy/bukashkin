@@ -1,0 +1,259 @@
+﻿html, body {
+
+	margin:0px;
+
+	padding:0px;
+
+}
+
+body, input, select, textarea {
+	background-color: #261910;
+}
+
+td, input, select, textarea {
+
+	font-family: Tahoma;
+
+	font-size: 11px;
+
+	color: #000000;
+
+	vertical-align: top; 
+
+}
+
+td {
+
+	padding: 0px;
+
+}
+
+table.main {
+
+	width: 100%;
+
+	height: 100%;
+
+	border-collapse: collapse;
+
+}
+
+td.top {
+
+	background-image: url(top_bg.jpg);
+
+	
+
+	height: 100%;
+
+}
+
+td.logo {
+
+	width: 30%;
+
+	text-align: center;
+
+	
+
+}
+
+#gal {
+	height: 500px;
+	width: 500px;
+	left: 400px;
+	top: 30px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	font-size: 15px;
+	text-align: center;
+}
+
+td.copyright {
+
+}
+
+td.bottommenu {
+	text-align: center;
+	color:#999;
+
+}
+#galery_0 {
+	height: 508px;
+	width: 814px;
+	left: 42px;
+	top: 331px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#galery_1 {
+	height: 200px;
+	width: 250px;
+	left: 45px;
+	top: 398px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#galery_2 {
+	height: 200px;
+	width: 250px;
+	left: 243px;
+	top: 398px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#galery_3 {
+	height: 200px;
+	width: 250px;
+	left: 440px;
+	top: 398px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#galery_4 {
+	height: 200px;
+	width: 250px;
+	left: 636px;
+	top: 398px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#galery_5 {
+	height: 200px;
+	width: 250px;
+	left: 832px;
+	top: 398px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#galery_6 {
+	height: 200px;
+	width: 250px;
+	left: 1028px;
+	top: 398px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+a{
+	color:#C97A35;
+}
+
+a.Hover{
+    color:#C97A35;
+}
+#nadpis_1 {
+	height: 200px;
+	width: 250px;
+	left: 45px;
+	top: 580px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#nadpis_2 {
+	height: 200px;
+	width: 250px;
+	left: 243px;
+	top: 580px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#nadpis_3 {
+	height: 200px;
+	width: 250px;
+	left: 440px;
+	top: 580px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#nadpis_4 {
+	height: 200px;
+	width: 250px;
+	left: 636px;
+	top: 580px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#nadpis_5 {
+	height: 200px;
+	width: 250px;
+	left: 832px;
+	top: 580px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#nadpis_6 {
+	height: 200px;
+	width: 250px;
+	left: 1035px;
+	top: 580px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	color: #FF0;
+	font-size: 19px;
+}
+#gsilka_kontakt {
+	height: 77px;
+	width: 200px;
+	left: 90px;
+	top: 249px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	font-size: 19px;
+}
+#gsilka_kompania {
+	height: 214px;
+	width: 388px;
+	left: 38px;
+	top: 156px;
+	position: absolute;
+	clear: both;
+	list-style-type: none;
+	font-size: 19px;
+	color:#FFF;
+}
+a:link {
+	color:#261910;
+	}
+
+	a:visited {
+	color:#261910;
+	}
