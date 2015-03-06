@@ -1,0 +1,995 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"lis",
+				"lisp-i	list-style-position: inside;"
+			],
+			[
+				"list",
+				"list-dclz	list-style-type: decimal-leading-zero;"
+			],
+			[
+				"bgz",
+				"bgsz-ct	background-size: contain;"
+			],
+			[
+				"ff",
+				"ff-a	font-family: Arial, \"Helvetica Neue\", Helvetica, sans-serif;"
+			],
+			[
+				"td",
+				"td-l	text-decoration: line-through;"
+			],
+			[
+				"border-co",
+				"border-collapse"
+			],
+			[
+				"la",
+				"last-child  (pseudo-class)"
+			],
+			[
+				"border",
+				"border-image: "
+			],
+			[
+				"bord",
+				"border-image:   (property)"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"trs",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"li",
+				"lighten(color, 10%)"
+			],
+			[
+				"article-",
+				"article-title"
+			],
+			[
+				"d",
+				"disc"
+			],
+			[
+				"in",
+				"inside"
+			],
+			[
+				"list-style-",
+				"list-style-position"
+			],
+			[
+				"liststyle",
+				"list-style-type"
+			],
+			[
+				"box-z",
+				"-moz-box-sizing:   (property)"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fff",
+				"F0F0F0"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"op",
+				"op:ms	-ms-filter:opacity"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bor",
+				"border-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-bukashkin/index_o.php",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"cssc",
+				"Run CSScomb"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"emme",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"pack",
+				"Package Control: Discover Packages"
+			],
+			[
+				"sass",
+				"SassBeautify: Convert from SASS to current type"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet enc",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"emmet en",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"tor",
+				"TortoiseSVN: Commit"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"tidy",
+				"Tidy CSS"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"wo",
+				"WordPress: Open Config File"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"snip de",
+				"Snippet: desktop  laptop"
+			],
+			[
+				"sni mo",
+				"Snippet: smartphone"
+			],
+			[
+				"snipe",
+				"Snippet: :focus"
+			],
+			[
+				"snip",
+				"Snippet: ipad"
+			],
+			[
+				"clea",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ty",
+				"Tidy HTML"
+			],
+			[
+				"bro",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sft",
+				"SFTP: Setup Server…"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"live",
+				"LiveStyle: Apply Patch"
+			],
+			[
+				"remoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"qi",
+				"Git: Quick Commit"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"git ",
+				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git qui",
+				"Git: Quick Commit"
+			],
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"gut",
+				"Git: Quick Commit"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Push"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"subl",
+				"SublimeZilla: Import FileZilla Server"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"a",
+				"Autoprefix CSS"
+			],
+			[
+				"colo",
+				"BracketHighlighter: Toggle Global Enable"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 199.0,
+		"history":
+		[
+			"restart",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Working/develop/verstka/bukashkin"
+	],
+	"file_history":
+	[
+		"/D/Working/develop/verstka/bukashkin/old-site/index.html",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/category.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/page-home.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/select-rooms.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/read-also.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/page-contact.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/page.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/page-numbers.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/loop.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/js/owl.new.js",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/gulpfile.js",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/home-map.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/assets/js/scripts.js",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/footer.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/header.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/assets/sass/_owl.carousel.scss",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/functions.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/user-reviews.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/assets/sass/_web-fonts.scss",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/index.php",
+		"/D/Working/develop/verstka/rock-hotel.org/wordpress/wp-content/themes/wp-rockhotel/style.css",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/loop.php",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/style.css",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/css/main.css",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/gulpfile.js",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/assets/sass/jquery.fancybox-1.3.4.scss",
+		"/D/Working/develop/verstka/takoconsult.ru/sdas.scss",
+		"/D/Working/develop/verstka/takoconsult.ru/html/news.html",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/page.php",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/single.php",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/category.php",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/header.php",
+		"/D/Working/develop/verstka/takoconsult.ru/html/review.html",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/page-review.php",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/page-services.php",
+		"/D/Working/develop/verstka/takoconsult.ru/html/page-review.php",
+		"/D/Working/develop/verstka/takoconsult.ru/html/team.html",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/footer.php",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/page-home.php",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/css/jquery.fancybox-1.3.4.css",
+		"/D/Working/develop/verstka/takoconsult.ru/html/services.html",
+		"/D/Working/develop/verstka/takoconsult.ru/wp-takoconsult/index.php",
+		"/D/Working/develop/verstka/takoconsult.ru/html/index.html",
+		"/D/Working/develop/verstka/takoconsult.ru/html/css/style(1).css",
+		"/D/Working/develop/verstka/takoconsult.ru/html/css/style.css",
+		"/D/Working/develop/verstka/takoconsult.ru/html/css/nf.lightbox.css",
+		"/D/Working/develop/verstka/takoconsult.ru/html/css/jquery.fancybox-1.3.4.css",
+		"/D/Working/develop/verstka/takoconsult.ru/html/css/main_slide.css",
+		"/Z/hotels24.ua/assets/sass/sass24/relised.scss",
+		"/Z/hotels24.ua/assets/sass/temp_main.scss",
+		"/Z/hotels24.ua/assets/sass/index.scss",
+		"/Z/hotels24.ua/application/classes/common/prices/HotelPricesManager.php",
+		"/Z/hotels24.ua/assets/sass/sass24/developer_2015-01-04.scss",
+		"/Z/hotels24.ua/application/templates/source/common/common_hotel_facilities.tpl",
+		"/Z/hotels24.ua/application/templates/source/ajax/new/ajax_main_for_half_price.tpl",
+		"/Z/hotels24.ua/application/templates/source/common/common_flat_facilities.tpl",
+		"/Z/hotels24.ua/application/templates/ria/common/top_panel.tpl",
+		"/Z/hotels24.ua/application/templates/source/main/main_catalog_spec.tpl",
+		"/Z/hotels24.ua/application/templates/source/view/view_hotel_main_info.tpl",
+		"/Z/hotels24.ua/application/templates/source/search/search_block_rows.tpl",
+		"/Z/hotels24.ua/assets/sass/sass24/hotel_catalog/hotel_catalog.scss",
+		"/Z/hotels24.ua/assets/sass/sass24/all.scss",
+		"/Z/hotels24.ua/www/lp_large.html",
+		"/Z/hotels24.ua/application/templates/ria/common/top_panel_flat.tpl",
+		"/Z/hotels24.ua/application/templates/source/main/main_catalog_spec.bck.tpl",
+		"/Z/hotels24.ua/application/templates/ria/view/prelink_main.tpl",
+		"/Z/hotels24.ua/application/templates/source/main/main_catalog_spec.tpl.bck",
+		"/Z/hotels24.ua/application/templates/source/main/new/main_for_half_price.tpl",
+		"/Z/hotels24.ua/application/templates/source/main/new/main_catalog_region_smoll_new.tpl",
+		"/Z/hotels24.ua/application/templates/source/ajax/new/ajax_right_discount_list_body_new.tpl",
+		"/Z/hotels24.ua/application/templates/source/main/new/main_catalog_region_directions.tpl",
+		"/Z/hotels24.ua/application/templates/source/ajax/new/ajax_right_discount_list_body_main_new.tpl",
+		"/Z/hotels24.ua/gulpfile.js",
+		"/Z/hotels24.ua/application/templates/source/ajax/ajax_paginator_hotel_list.tpl",
+		"/Z/hotels24.ua/assets/sass/_sprite.scss",
+		"/Z/hotels24.ua/application/templates/source/flat/flat_hotel_main_info.tpl",
+		"/Z/hotels24.ua/application/templates/source/news/news_popular_region_hotels.tpl",
+		"/Z/hotels24.ua/application/templates/source/view/view_room_rows.tpl",
+		"/Z/hotels24.ua/assets/sass/developer.scss",
+		"/Z/hotels24.ua/application/templates/source/ajax/ajax_change_dates.tpl",
+		"/Z/hotels24.ua/application/classes/user/Cache.php",
+		"/Z/hotels24.ua/application/classes/user/MainController.php",
+		"/Z/hotels24.ua/application/templates/source/ajax/ajax_right_discount_list_body.tpl",
+		"/Z/hotels24.ua/application/templates/ria/main/catalog_spec.tpl",
+		"/Z/hotels24.ua/application/templates/ria_coob/main/catalog_spec.tpl",
+		"/Z/hotels24.ua/application/templates/ria_mobile/main/catalog_spec.tpl",
+		"/Z/hotels24.ua/application/templates_c/rus-^%%C0^C02^C029D00C%%catalog_spec.tpl.php",
+		"/Z/hotels24.ua/application/templates/source/view/view_error_page.tpl",
+		"/Z/hotels24.ua/application/templates/ria/main/all_reviews.tpl",
+		"/Z/hotels24.ua/application/templates/ria/main/catalog_soc.tpl",
+		"/Z/hotels24.ua/package.json",
+		"/D/Working/develop/verstka/hotels24-blog/html/gulpfile.js",
+		"/Z/hotels24.ua/gulpfile-expirements",
+		"/Z/hotels24.ua/assets/js/scripts.js",
+		"/Z/hotels24.ua/application/templates/ria/common/init_css.tpl",
+		"/Z/hotels24.ua/assets/sass/sass24/developer.scss",
+		"/Z/hotels24.ua/assets/sass/index._scss",
+		"/Z/crm/app/views/scripts/deed/old/voucher.old.phtml",
+		"/Z/crm/app/views/scripts/deed/voucher.twig",
+		"/Z/crm/app/views/scripts/deed/mail-voucher1.phtml",
+		"/Z/crm/app/views/scripts/deed/old/cancel-booking.phtml",
+		"/Z/crm/app/views/scripts/deed/old/booking-request.phtml",
+		"/Z/crm/app/views/scripts/deed/cancel-booking-request.phtml",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/blocks/footerOnline",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/mainVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/footerOffline",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/footerOnline",
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/mainVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/clientVouchers/mainVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/blocks/footerOffline",
+		"/Z/crm/app/views/scripts/deed/clientCancelVouchers/mainVoucher.twig",
+		"/Z/crm/app/views/scripts/deed/booking-request.twig",
+		"/Z/crm/app/views/scripts/deed/cancel-booking.twig",
+		"//H24-PROG-VERST/Work/hotels24.ua/assets/sass/index.scss",
+		"//H24-PROG-VERST/Work/hotels24.ua/assets/sass/sass24/developer.scss",
+		"//H24-PROG-VERST/Work/hotels24.ua/application/templates/source/booking/booking_book_page_right_panel.tpl",
+		"//H24-PROG-VERST/Work/hotels24.ua/application/templates/source/view/view_room_rows.tpl",
+		"//H24-PROG-VERST/Work/hotels24.ua/application/managers/controls/booking/FastBooking/FastBookingManager.php",
+		"/Z/hotels24.ua/application/classes/js/Ria/Hotel/TabSwitcher.js",
+		"/Z/hotels24.ua/application/templates/source/view/view_hotel_room_info.tpl",
+		"//H24-PROG-VERST/Work/hotels24.ua/application/managers/controls/booking/HotelManager.php",
+		"/Z/hotels24.ua/application/classes/js/Ria/Hotel/ViewHotelRoomInfoManager.js",
+		"/Z/crm/dev-mail/dist/index.html",
+		"//H24-PROG-VERST/Work/hotels24.ua/application/templates/ria/common/top_panel.tpl",
+		"//H24-PROG-VERST/Work/hotels24.ua/application/templates/ria/common/top_panel_flat.tpl",
+		"//H24-PROG-VERST/Work/hotels24.ua/assets/sass/api-card.scss",
+		"/Z/api-card-fork/app/templates/v1/Card/form.phtml.orig",
+		"/Z/hotels24.ua/www/css/api-card.css"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sele",
+			"border-radius: 4px;",
+			"border-ra",
+			"socials",
+			"ico-count-bel",
+			"		    <div class=\"item\">\n				<h5>За что нас любят посетители</h5>\n				<p>Море - прямо с балкона!!! Рядом теннистные корты, катались на велосипедах. Каждый номер - под рок-группу! Классная ненапрягающая рок-музыка! Всем рекомендую! </p>\n				<p class=\"user-name\">Iryna<span class=\"user-from user-from-bel\">Беларусь</span></p>\n		    </div>",
+			"owl-carousel",
+			"user-reviews",
+			"owl-carousel",
+			".owl-carousel",
+			"1ccacd",
+			".header",
+			"user-reviews",
+			"ul",
+			"inner-title",
+			"max-w",
+			"select-rooms",
+			"font-weight: 3",
+			"font-we",
+			"f2f2f2",
+			"live",
+			"footer",
+			"dbdbdb",
+			"button",
+			"292929",
+			"z-inde",
+			"заяв",
+			"зая",
+			"#right_head",
+			"clearf",
+			"news_img",
+			"content",
+			"cont",
+			"src=\"./review_files/",
+			"path",
+			"#path",
+			"team",
+			".pnormal",
+			"span.pnormal",
+			"src=\"./team_files/",
+			"footer\">",
+			"<td class=\"footer\">",
+			"#left",
+			"src=\"./services_files/",
+			"script",
+			"cont",
+			"#header",
+			"header",
+			"carousel",
+			"carousel_auter",
+			"promkluch",
+			"header",
+			"logo",
+			"id=\"header\"",
+			"all",
+			"all.js",
+			".css",
+			"src=\"./index_files/",
+			"src=\"js/",
+			".js",
+			"css",
+			".css",
+			".hotels-main-block",
+			"inner-calendar",
+			"class=\"posR dispIB\"",
+			".chek-half-price",
+			"before",
+			".chek-half-price",
+			".input-row",
+			"cell-3",
+			"price-old",
+			"price",
+			"cell-1 hotel-price-table-col_1 clearfix",
+			"main-cell",
+			"main-cell-short",
+			".price",
+			"cell-3",
+			"price",
+			".price",
+			"price",
+			".price",
+			"cityArrival",
+			".selector-main",
+			".pop-selector",
+			"pid=\"discount_future\"",
+			"viewroom-rows",
+			".cell-3",
+			"img",
+			"facility-half-price",
+			"id-common-common_hotel_facilities",
+			"top-half-price-alert",
+			"href",
+			"norma",
+			".hotels-container",
+			"-39px",
+			".hotel-price-table",
+			"with-half-price",
+			".hotel-price-table-1",
+			".hotel-price-table-1 ",
+			"with-half-price",
+			"hotel-price-table-row",
+			"mc-embedded-subscribe",
+			"mc-embedded-subscribe1",
+			"mc-embedded-subscribe_1",
+			"class=\"button_mail_art_1 marR10\"",
+			"col25p-n1",
+			"pop-selector",
+			"src=\"http://",
+			"grey",
+			"H-385",
+			"standart text_small click_form_button class-common-common_hotel_facilities",
+			"dis",
+			"top-",
+			"header-info-block",
+			"отеле",
+			"after-hotels-half-price",
+			"box-s",
+			"hotels-main-block",
+			".hotels-container",
+			"grid-row grid-row_4",
+			"hotel-price-rows",
+			"hotel-price-table-1",
+			"hotel-price-table",
+			"hotel-price-table-col_4_new",
+			"/images/main/half_shares.png",
+			"half_shares",
+			"cell-3",
+			"yellow"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"border-radius: $bdrs;",
+			"		    <div class=\"item\">\n				<p>Море - прямо с балкона!!! Рядом теннистные корты, катались на велосипедах. Каждый номер - под рок-группу! Классная ненапрягающая рок-музыка! Всем рекомендую! </p>\n				<p class=\"user-name\">Iryna<span class=\"user-from user-from-bel\">Беларусь</span></p>\n		    </div>",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/js/",
+			"src=\"https://",
+			"/img/main/half_shares.png",
+			"font-family: Arial, sans-serif;",
+			"font-family: Verdana, Geneva, sans-serif;",
+			"",
+			"290",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"295",
+			"img/model",
+			"//",
+			"href=\"#\"",
+			"68",
+			" .tab-header li",
+			"72",
+			"<?php echo get_template_directory_uri(); ?>/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"font-family: 'PT Sans', sans-serif;",
+			"href=\"#\"",
+			"100",
+			"950",
+			"fonts",
+			"img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"phpshop/templates/saitobaza/img",
+			"carousell-inner",
+			"carousell-item",
+			"120",
+			"1200",
+			"rgba(253, 238, 186, 0.25)",
+			"#FDEEBA",
+			"</a>",
+			"<a href=\"\">\\1<aasa>",
+			"<a href=\"\">/1<a\\/>",
+			").png",
+			")png",
+			"png\" ",
+			"timthumb",
+			" ",
+			"h3",
+			"../img/",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"img",
+			"img/",
+			"font-family: 'Open Sans', sans-serif;",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img",
+			"src=\"<?php echo get_template_directory_uri(); ?>/photos",
+			"current-menu-item",
+			"",
+			"img",
+			"70",
+			"1000",
+			"<li>",
+			"showposts=12",
+			"page-template-page-jobs-php",
+			"http://mihas86.myjino.ru/wp-content/themes/wp-onetoone/img/",
+			"http://mihas86.myjino.ru/",
+			"140",
+			"1000",
+			"src=\"<?php echo get_template_directory_uri(); ?>/img/",
+			"url('../img",
+			"url('img/",
+			"href=\"#\"",
+			"src=\"img",
+			"img",
+			"relative",
+			"  behavior: url(http://demo.saitobaza.ru/wp-content/themes/wp-clickprime/PIE/PIE.htc);",
+			"section",
+			"/PIE.htc",
+			"http://demo.saitobaza.ru/wp-content/themes/wp-clickprime/PIE.htc",
+			".section-main",
+			"400",
+			"515",
+			"115",
+			"175",
+			"href=\"#\"",
+			"320",
+			"<span class=\"article-info\"><span class=\"date\">10:26  23.02.2014</span>  Интервью  Богдан Тимин</span>",
+			"<h2><a href=\"\">Что случилось с Михаилом Рокфеллером</a></h2>",
+			"180",
+			"1000",
+			"253",
+			"MyriadProBoldCondensed",
+			"1000",
+			"",
+			"wpeasy",
+			"c"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "D:\\Working\\develop\\verstka\\bukashkin"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-bukashkin/index_o.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								304,
+								304
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"apply_syntax_touched": true,
+							"bh_regions":
+							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Seti_monokai (SL).tmTheme",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"side_bar_folders_auto_load_folder": 1,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 150.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 183.0
+	},
+	"output.sftp":
+	{
+		"height": 149.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 74.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Working\\develop\\verstka\\hotels24-blog\\hotels24-blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
