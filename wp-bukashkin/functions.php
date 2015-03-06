@@ -797,4 +797,76 @@ function top_level_cats_remove_cat_base($link)
 	return preg_replace('|' . $category_base . '|', '', $link, 1);
 }
 
+
+add_action( 'init', 'register_cpt_product' );
+
+function register_cpt_product() {
+
+    $labels = array( 
+        'name' => _x( 'Product', 'product' ),
+        'singular_name' => _x( 'Product', 'product' ),
+        'add_new' => _x( 'Add New', 'product' ),
+        'add_new_item' => _x( 'Add New Product', 'product' ),
+        'edit_item' => _x( 'Edit Product', 'product' ),
+        'new_item' => _x( 'New Product', 'product' ),
+        'view_item' => _x( 'View Product', 'product' ),
+        'search_items' => _x( 'Search Product', 'product' ),
+        'not_found' => _x( 'No product found', 'product' ),
+        'not_found_in_trash' => _x( 'No product found in Trash', 'product' ),
+        'parent_item_colon' => _x( 'Parent Product:', 'product' ),
+        'menu_name' => _x( 'Product', 'product' ),
+    );
+
+    $args = array( 
+        'labels' => $labels,
+        'hierarchical' => true,
+        
+        'supports' => array( 'title', 'editor', 'thumbnail' ),
+        
+        'public' => true,
+        'show_ui' => true,
+        'show_in_menu' => true,
+        'menu_position' => 15,
+        
+        'show_in_nav_menus' => true,
+        'publicly_queryable' => true,
+        'exclude_from_search' => false,
+        'has_archive' => true,
+        'query_var' => true,
+        'can_export' => true,
+        'rewrite' => array( 
+            'slug' => 'product', 
+            'with_front' => false,
+            'feeds' => true,
+            'pages' => true
+        ),
+        'capability_type' => 'post'
+    );
+
+    register_post_type( 'product', $args );
+}
+
+// function my_taxonomies_product() {
+//   $labels = array(
+//     'name'              => _x( 'Product Categories', 'taxonomy general name' ),
+//     'singular_name'     => _x( 'Product Category', 'taxonomy singular name' ),
+//     'search_items'      => __( 'Search Product Categories' ),
+//     'all_items'         => __( 'All Product Categories' ),
+//     'parent_item'       => __( 'Parent Product Category' ),
+//     'parent_item_colon' => __( 'Parent Product Category:' ),
+//     'edit_item'         => __( 'Edit Product Category' ), 
+//     'update_item'       => __( 'Update Product Category' ),
+//     'add_new_item'      => __( 'Add New Product Category' ),
+//     'new_item_name'     => __( 'New Product Category' ),
+//     'menu_name'         => __( 'Product Categories' ),
+//   );
+//   $args = array(
+//     'labels' => $labels,
+//     'hierarchical' => true,
+//   );
+//   register_taxonomy( 'product-category', 'product', $args );
+// }
+// add_action( 'init', 'my_taxonomies_product', 0 );
+
+
 ?>

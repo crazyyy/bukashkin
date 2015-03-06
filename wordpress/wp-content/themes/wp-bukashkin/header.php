@@ -14,31 +14,9 @@
   <!-- icons -->
   <link href="<?php echo get_template_directory_uri(); ?>/favicon.ico" rel="shortcut icon">
   <!-- css + javascript -->
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700&subset=latin,cyrillic,cyrillic-ext' rel='stylesheet' type='text/css'>
   <?php wp_head(); ?>
 
-  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/cufon-yui.js"></script>
-  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/PF_Din_Text_Comp_Pro_400.font.js"></script>
-
-  <script type="text/javascript">
-      Cufon.replace("#breadcrumbs");
-      Cufon.replace("tr.tr_head");
-      Cufon.replace("td.td_head");
-
-      jQuery(document).ready(function () {
-          $('li.grayscale').click(function () {
-              $('div.border').css("display", "none");
-              this.firstChild.lastChild.style.display = "block";
-          });
-
-          jQuery('#portfolio_cat_list').jcarousel({
-              scroll: 1,
-              initCallback: mycarousel_initCallback,
-              buttonNextHTML: null,
-              buttonPrevHTML: null
-          });
-      });
-  </script>
-  <script type="text/javascript" src="<?php echo get_template_directory_uri(); ?>/js/grayscale2.js"></script>
 </head>
 <body <?php body_class(); ?>>
 	<div id="main">
@@ -57,12 +35,9 @@
 					<?php } ?>
 				</div>
 				<!-- /logo -->
-
-				<a href="tel:+79261009556" class="phone">+7(926)<span>100-95-56</span></a>
-
 		        <a href="<?php echo home_url(); ?>/contacts.php" class="contacts">Контактная информация</a>
-		        <div class="lighter"></div>
 		    </div>
+		    <?php putRevSlider("header") ?>
 		</div><!-- header -->
 
 		<aside class="navi">
