@@ -457,13 +457,19 @@
 	"expanded_folders":
 	[
 		"/D/Working/develop/verstka/bukashkin",
-		"/D/Working/develop/verstka/bukashkin/wordpress/wp-content",
+		"/D/Working/develop/verstka/bukashkin/wordpress",
+		"/D/Working/develop/verstka/bukashkin/wordpress/sxd",
+		"/D/Working/develop/verstka/bukashkin/wordpress/sxd/backup",
 		"/D/Working/develop/verstka/bukashkin/wp-bukashkin",
 		"/D/Working/develop/verstka/bukashkin/wp-bukashkin/assets",
 		"/D/Working/develop/verstka/bukashkin/wp-bukashkin/assets/sass"
 	],
 	"file_history":
 	[
+		"/D/Working/develop/verstka/bukashkin/wordpress/sxd/cfg.php",
+		"/D/Working/develop/verstka/bukashkin/wordpress/sftp-config.json",
+		"/D/Working/develop/verstka/bukashkin/wordpress/wp-config.php",
+		"/D/Working/develop/verstka/bukashkin/wordpress/sxd/backup/bukashkin_2015-03-06_14-58-35.sql",
 		"/D/Working/develop/verstka/bukashkin/wp-bukashkin/single.php",
 		"/D/Working/develop/verstka/bukashkin/wp-bukashkin/header.php",
 		"/D/Working/develop/verstka/bukashkin/old-site/contacts.php",
@@ -587,11 +593,7 @@
 		"/Z/crm/app/views/scripts/deed/cancel-booking-request.phtml",
 		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/blocks/footerOnline",
 		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/mainVoucher.twig",
-		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/footerOffline",
-		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/footerOnline",
-		"/Z/crm/app/views/scripts/deed/hotelVouchers/mainVoucher.twig",
-		"/Z/crm/app/views/scripts/deed/clientVouchers/mainVoucher.twig",
-		"/Z/crm/app/views/scripts/deed/hotelCancelVouchers/blocks/footerOffline"
+		"/Z/crm/app/views/scripts/deed/hotelVouchers/blocks/footerOffline"
 	],
 	"find":
 	{
@@ -609,6 +611,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bukashkin.test",
 			"thumbnail",
 			"src=\"images",
 			".htm",
@@ -735,8 +738,7 @@
 			"box-s",
 			"hotels-main-block",
 			".hotels-container",
-			"grid-row grid-row_4",
-			"hotel-price-rows"
+			"grid-row grid-row_4"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -744,6 +746,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"demo3.saitobaza.ru",
 			"src=\"<?php echo get_template_directory_uri(); ?>/img",
 			".php",
 			"src=\"<?php echo get_template_directory_uri(); ?>/img/",
@@ -857,7 +860,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -873,8 +876,8 @@
 						"selection":
 						[
 							[
-								6967,
-								6967
+								7387,
+								7387
 							]
 						],
 						"settings":
@@ -949,10 +952,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 9695.0,
+						"translation.y": 9911.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -1064,8 +1067,8 @@
 						"selection":
 						[
 							[
-								919,
-								919
+								986,
+								441
 							]
 						],
 						"settings":
@@ -1144,7 +1147,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{

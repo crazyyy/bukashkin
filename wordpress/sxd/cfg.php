@@ -8,12 +8,12 @@ $CFG = array (
   'backup_url' => 'backup/',
   'only_create' => 'MRG_MyISAM MERGE HEAP MEMORY',
   'globstat' => 0,
-  'my_host' => 'localhost',
+  'my_host' => 'p284179.mysql.ihc.ru',
   'my_port' => 3306,
-  'my_user' => 'bukashkin',
-  'my_pass' => 'bukashkin',
+  'my_user' => 'p284179_saitde3',
+  'my_pass' => 'x7p3Rpq4qy',
   'my_comp' => 0,
-  'my_db' => '',
+  'my_db' => 'p284179_saitde3',
   'auth' => 'mysql cfg',
   'user' => '',
   'pass' => '',
@@ -23,3 +23,4 @@ $CFG = array (
   'outfile_size' => '64',
 );
 ?>
+
